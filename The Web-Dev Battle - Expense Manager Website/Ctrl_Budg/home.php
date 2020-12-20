@@ -1,7 +1,7 @@
 <?php
 session_start();
 /* home page which shows all the details of the user.
-To get aal the plans */
+To get all the plans */
 $_SESSION['TRIP']=1;
 $con = mysqli_connect("localhost", "root", "root", "ctrl_budget") or die(mysqli_error($con));
 $email = $_SESSION['email'];
