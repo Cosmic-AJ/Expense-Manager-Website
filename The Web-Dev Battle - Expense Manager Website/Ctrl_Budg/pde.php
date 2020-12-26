@@ -1,6 +1,6 @@
 <?php
 session_start();
-/* This is the add plan page which add the plan to the database.
+/* This is the add plan page which adds the plan to the database.
 It will first check that user has logged into the website or not. */
 $email = $_SESSION['email'];
 if($email!=NULL)
