@@ -1,6 +1,6 @@
 <?php
 session_start();
-/* register page which allow the user to sign up to the website */
+/* register page which allow the user to sign up to the  */
 $con = mysqli_connect("localhost", "root", "root", "ctrl_budget") or die(mysqli_error($con));
 /* catch the data from the form and encoding password*/
 $email = mysqli_real_escape_string($con,$_POST['email']);
