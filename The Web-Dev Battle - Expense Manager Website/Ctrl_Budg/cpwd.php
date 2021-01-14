@@ -1,5 +1,5 @@
 <?php
-/* change password page which change the password using php and database connection.*/
+/* hange the password using php and database connection.*/
 $email = $_SESSION['email'];
 if($email!=NULL)
         {
