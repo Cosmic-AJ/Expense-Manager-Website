@@ -1,5 +1,4 @@
 <?php
-session_start();
 /* change password page which change the password using php and database connection.*/
 $email = $_SESSION['email'];
 if($email!=NULL)
