@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This is the expense distribution page which shows the expense details.
-It will first check that user has logged into the website or not -->
+It will first ogged into the website or not -->
 <?php
 $pid = $_SESSION['id'];
 $eid = $_SESSION['pp'];
