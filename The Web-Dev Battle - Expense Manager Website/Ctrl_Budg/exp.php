@@ -2,7 +2,6 @@
 <!-- This is the expense distribution page which shows the expense details.
 It will first check that user has logged into the website or not -->
 <?php
-session_start();
 $pid = $_SESSION['id'];
 $eid = $_SESSION['pp'];
 $email = $_SESSION['email'];
