@@ -1,0 +1,104 @@
+/* This is the style css file which contains the formatting styles for the data in the project.
+linked to all the webpages for reference */
+.aboutus{
+    margin-top: 90px;
+    margin-bottom:202px;
+    }
+.main{
+    background-color: #f7f7f7;   
+    }
+.chpwd{
+    margin-top: 90px;
+    margin-bottom:136px;
+    }
+.footer {
+   background-color : rgba(0,0,0,1);
+   max-width : 100%;
+   color:#7b7b7b;
+   font-size: 15px;
+   text-decoration: none;
+   font-family: "Arial";
+   text-align: center;
+   padding-top:4px;
+   padding-bottom: 12px;
+}
+.home{
+    margin-top: 90px;
+    margin-bottom:190px;
+    }
+.home2{
+    margin-top: 90px;
+    margin-bottom:230px;
+    }
+#background-image {
+   background-image:url("index.jpg");
+   max-width : 100%;
+   height: 620px;
+   max-height : 100%;
+}
+#content {
+   background-color : rgba(0,0,0,0.7);
+   max-width : 85%;
+   color:white;
+   font-size: 30px;
+   padding:30px 20px;
+   margin-top:200px;
+   text-decoration: none;
+   font-family: "Arial";
+}
+.login{
+    margin-top: 90px;
+    margin-bottom:155px;
+    }
+.newplan{
+    margin-top: 90px;
+    margin-bottom:210px;
+    }
+.pdetails{
+    margin-top: 90px;
+    margin-bottom:88px;
+    }
+.signup{
+    margin-top: 90px;
+    margin-bottom: 48px;
+    }
+.btn {
+   height: 40px;
+   width: 125px;
+   padding:10px 15px;
+}
+.expe{
+    margin-top: 90px;
+    margin-bottom: 180px;
+    }
+.panel-heading{
+        background-color:teal;
+}    
+.new{
+    margin-top: 90px;
+    margin-bottom:14px;
+    }
+.su{
+    margin-top: 90px;
+    margin-bottom:172px;
+    }
+.pd{
+        height: 26%;
+        width:18%;
+        margin-left: 40%;
+    }
+@media (min-width:320px) {  .container {
+                                width: 320px;
+                            } }
+@media (min-width:481px) {   .container {
+                                 width: 481px;
+                             } }
+@media (min-width:641px) {   .container {
+                                 width: 641px;
+                             } }
+@media (min-width:961px) {   .container {
+                                 width: 961px;
+                             } }
+@media (min-width:1000px) {  .container {
+                                 width: 1000px;
+                             } }    
