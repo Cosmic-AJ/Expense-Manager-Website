@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- This is the about us page before the user log in into the website which include 
+<!-- This is the about us page before the user log in into the website which nclude 
 some key points of the website. -->
 <html>
     <head>
