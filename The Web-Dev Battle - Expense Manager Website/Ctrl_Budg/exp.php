@@ -10,7 +10,6 @@ $squery = mysqli_query($con, $search);
 $nbud = mysqli_fetch_array($squery);
 $bud = $nbud['budget'];
 $non = $nbud['npeople'];
-/* Get the plan number */
 $sear = "SELECT mn from number where no=$eid";
 $dsearc = mysqli_query($con, $sear);
 $dquery = mysqli_fetch_array($dsearc);
