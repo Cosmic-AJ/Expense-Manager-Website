@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This is the expense distribution page which shows the expense details.
-It will nto the website or not -->
+It will  -->
 <?php
 $email = $_SESSION['email'];
 /* Get the budget and no of people */
