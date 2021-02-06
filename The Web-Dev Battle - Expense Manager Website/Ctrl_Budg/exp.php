@@ -2,7 +2,6 @@
 <!-- This is the expense distribution page which shows the expense details.
 It will first ogged into the website or not -->
 <?php
-$pid = $_SESSION['id'];
 $email = $_SESSION['email'];
 /* Get the budget and no of people */
 $con = mysqli_connect("localhost", "root", "root", "ctrl_budget") or die(mysqli_error($con));
