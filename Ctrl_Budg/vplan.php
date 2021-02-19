@@ -1,6 +1,6 @@
 <?php
 session_start();
-/* view plan page which shows all the details of the current plan.
+/* ew plan page which shows all the details of the current plan.
 It will first check that user has logged into the website or not */
 $pid=$_POST['id'];
 $_SESSION['id']=$pid;
