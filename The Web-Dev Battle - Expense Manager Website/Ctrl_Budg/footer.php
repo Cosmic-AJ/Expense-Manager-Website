@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- footer of the website -->
+<!-- footer of the webe -->
 <html>
     <head>
         <title>
