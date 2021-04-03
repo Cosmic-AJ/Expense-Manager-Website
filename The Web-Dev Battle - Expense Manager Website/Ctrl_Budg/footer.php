@@ -16,7 +16,7 @@
         </script>
     </head>
     <body>
-        <div class="footer container-fluid">
+        <div class="fooer container-fluid">
             <!-- Content -->
             Copyright &copy; Control budget. All Rights Reserved | Contact Us: +91-844844853
         </div>
