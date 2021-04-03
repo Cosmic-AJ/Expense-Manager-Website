@@ -11,7 +11,7 @@
         <!-- linking -->
         <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css" >
         <script src="jquery-3.4.1.min.js">
-        </script>
+        </script>. 
         <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js">
         </script>
     </head>
